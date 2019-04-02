@@ -22,3 +22,5 @@ executable spock-example
                      , http-types
                      , mtl
                      , text
+                     , lucid
+                     , Spock-lucid
